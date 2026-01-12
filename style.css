@@ -1,0 +1,20 @@
+body{
+    background-color: blanchedalmond;
+}
+.navbar{
+    display: flex;
+    padding: 18px;
+    background-color: aliceblue;
+    gap: 20px;
+    justify-content: center;
+}
+.navbar a{
+    font-size: medium;
+    color: black;
+    font-weight: lighter;
+    text-decoration: none;
+}
+h1{
+    color: cadetblue;
+    justify-content: center;
+}
